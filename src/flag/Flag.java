@@ -1,5 +1,5 @@
 package flag;
 
 public class Flag {
-    String colorOne;
+    String colorTwo;
 }
